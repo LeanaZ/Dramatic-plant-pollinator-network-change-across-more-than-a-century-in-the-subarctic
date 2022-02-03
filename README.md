@@ -13,4 +13,4 @@ This repository contains the code and data needed to reproduce the results and d
 
 # Data analysis
 
-Code for data analysis and producing figures is located in the `analysis/main_analysis_Zoller_et_al.R` folder of this repository. Reads data from `data/InteractionData_Zoller_et_al.csv`.
+Code for data analysis and producing figures is in `analysis/main_analysis_Zoller_et_al.R`. Reads data from `data/InteractionData_Zoller_et_al.csv`.
