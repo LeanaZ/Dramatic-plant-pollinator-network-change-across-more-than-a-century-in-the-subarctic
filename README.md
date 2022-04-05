@@ -18,6 +18,7 @@ Code for data analysis and producing figures is in `analysis/main_analysis_Zolle
 # R Session information
 Information about the current R Session at the time of running the analysis:
 
+```r
 > sessionInfo()
 R version 4.0.3 (2020-10-10)
 Platform: x86_64-w64-mingw32/x64 (64-bit)
@@ -43,3 +44,4 @@ loaded via a namespace (and not attached):
 [43] magrittr_2.0.1       matrixStats_0.58.0   codetools_0.2-18     scales_1.1.1         ellipsis_0.3.2       MASS_7.3-54         
 [49] splines_4.0.3        assertthat_0.2.1     bootstrapnet_1.0.0   permute_0.9-5        colorspace_2.0-1     utf8_1.2.1          
 [55] network_1.16.1       doParallel_1.0.16    munsell_0.5.0        statnet.common_4.4.1 crayon_1.4.1         vegan_2.5-7         
+```
